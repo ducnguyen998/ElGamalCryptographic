@@ -1,2 +1,2 @@
-# ElGamalCryptographic
+# Common Cryptographic
 ElGamal Cryptographic implementation
